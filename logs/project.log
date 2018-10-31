@@ -1,0 +1,112 @@
+[ 2018-08-27 11:37:38 ] INFO HM_CLASSIFICATION::carrega indice das imagens 
+[ 2018-08-27 11:37:42 ] INFO HM_CLASSIFICATION::carrega imagens treino 
+[ 2018-08-27 11:37:45 ] INFO HM_CLASSIFICATION::carrega labels treino 
+[ 2018-08-27 11:40:28 ] INFO HM_CLASSIFICATION::carrega imagens validacao 
+[ 2018-08-27 11:40:29 ] INFO HM_CLASSIFICATION::carrega labels treino 
+[ 2018-08-27 12:08:36 ] INFO HM_CLASSIFICATION::carrega indice das imagens 
+[ 2018-08-27 12:08:36 ] INFO HM_CLASSIFICATION::carrega imagens treino 
+[ 2018-08-27 12:08:47 ] INFO HM_CLASSIFICATION::carrega labels treino 
+[ 2018-08-27 12:08:47 ] INFO HM_CLASSIFICATION::carrega imagens validacao 
+[ 2018-08-27 12:08:49 ] INFO HM_CLASSIFICATION::carrega labels treino 
+[ 2018-08-27 12:08:49 ] INFO HM_CLASSIFICATION::carrega imagens teste 
+[ 2018-08-27 12:08:49 ] INFO HM_CLASSIFICATION::carrega labels teste 
+[ 2018-08-27 12:09:32 ] INFO HM_CLASSIFICATION::carrega indice das imagens 
+[ 2018-08-27 12:09:33 ] INFO HM_CLASSIFICATION::carrega imagens treino 
+[ 2018-08-27 12:09:37 ] INFO HM_CLASSIFICATION::carrega labels treino 
+[ 2018-08-27 12:09:37 ] INFO HM_CLASSIFICATION::carrega imagens validacao 
+[ 2018-08-27 12:09:38 ] INFO HM_CLASSIFICATION::carrega labels treino 
+[ 2018-08-27 12:09:38 ] INFO HM_CLASSIFICATION::carrega imagens teste 
+[ 2018-08-27 12:09:38 ] INFO HM_CLASSIFICATION::carrega labels teste 
+[ 2018-08-27 12:10:26 ] INFO HM_CLASSIFICATION::modelo 
+[ 2018-08-27 12:13:49 ] INFO HM_CLASSIFICATION::treina modelo 
+[ 2018-08-30 22:24:39 ] INFO HM_CLASSIFICATION::carrega indice das imagens 
+[ 2018-08-30 22:25:17 ] INFO HM_CLASSIFICATION::carrega imagens treino 
+[ 2018-08-30 22:26:34 ] INFO HM_CLASSIFICATION::carrega labels treino 
+[ 2018-08-30 22:28:15 ] INFO HM_CLASSIFICATION::carrega labels treino 
+[ 2018-08-30 22:29:37 ] INFO HM_CLASSIFICATION::modelo 
+[ 2018-08-30 22:31:46 ] INFO HM_CLASSIFICATION::treina modelo 
+[ 2018-08-30 22:37:47 ] INFO HM_CLASSIFICATION::carrega indice das imagens 
+[ 2018-08-30 22:39:54 ] INFO HM_CLASSIFICATION::carrega imagens treino 
+[ 2018-08-30 22:40:02 ] INFO HM_CLASSIFICATION::carrega labels treino 
+[ 2018-08-30 22:40:27 ] INFO HM_CLASSIFICATION::carrega imagens validacao 
+[ 2018-08-30 22:40:29 ] INFO HM_CLASSIFICATION::carrega labels treino 
+[ 2018-08-30 22:41:05 ] INFO HM_CLASSIFICATION::carrega imagens teste 
+[ 2018-08-30 22:41:06 ] INFO HM_CLASSIFICATION::carrega labels teste 
+[ 2018-08-30 22:41:15 ] INFO HM_CLASSIFICATION::modelo 
+[ 2018-08-30 22:41:21 ] INFO HM_CLASSIFICATION::treina modelo 
+[ 2018-08-30 22:43:17 ] INFO HM_CLASSIFICATION::modelo 
+[ 2018-08-30 22:43:22 ] INFO HM_CLASSIFICATION::treina modelo 
+[ 2018-08-30 22:44:17 ] INFO HM_CLASSIFICATION::modelo 
+[ 2018-08-30 22:46:39 ] INFO HM_CLASSIFICATION::modelo 
+[ 2018-08-30 22:46:45 ] INFO HM_CLASSIFICATION::treina modelo 
+[ 2018-08-30 22:47:11 ] INFO HM_CLASSIFICATION::modelo 
+[ 2018-08-30 22:48:06 ] INFO HM_CLASSIFICATION::modelo 
+[ 2018-08-30 22:49:05 ] INFO HM_CLASSIFICATION::modelo 
+[ 2018-08-30 22:50:11 ] INFO HM_CLASSIFICATION::modelo 
+[ 2018-08-30 22:51:47 ] INFO HM_CLASSIFICATION::carrega indice das imagens 
+[ 2018-08-30 22:51:53 ] INFO HM_CLASSIFICATION::carrega imagens treino 
+[ 2018-08-30 22:52:00 ] INFO HM_CLASSIFICATION::carrega labels treino 
+[ 2018-08-30 22:52:14 ] INFO HM_CLASSIFICATION::carrega imagens validacao 
+[ 2018-08-30 22:52:16 ] INFO HM_CLASSIFICATION::carrega labels treino 
+[ 2018-08-30 22:52:25 ] INFO HM_CLASSIFICATION::carrega imagens teste 
+[ 2018-08-30 22:52:25 ] INFO HM_CLASSIFICATION::carrega labels teste 
+[ 2018-08-30 22:52:33 ] INFO HM_CLASSIFICATION::modelo 
+[ 2018-08-31 01:22:33 ] INFO HM_CLASSIFICATION::carrega indice das imagens 
+[ 2018-08-31 01:22:39 ] INFO HM_CLASSIFICATION::carrega imagens treino 
+[ 2018-08-31 01:22:46 ] INFO HM_CLASSIFICATION::carrega labels treino 
+[ 2018-08-31 01:22:54 ] INFO HM_CLASSIFICATION::carrega imagens validacao 
+[ 2018-08-31 01:22:56 ] INFO HM_CLASSIFICATION::carrega labels treino 
+[ 2018-08-31 01:23:03 ] INFO HM_CLASSIFICATION::carrega imagens teste 
+[ 2018-08-31 01:23:03 ] INFO HM_CLASSIFICATION::carrega labels teste 
+[ 2018-08-31 01:23:08 ] INFO HM_CLASSIFICATION::modelo 
+[ 2018-08-31 01:23:13 ] INFO HM_CLASSIFICATION::treina modelo 
+[ 2018-09-02 23:35:07 ] INFO HM_CLASSIFICATION::carrega indice das imagens 
+[ 2018-09-02 23:35:13 ] INFO HM_CLASSIFICATION::carrega imagens treino 
+[ 2018-09-02 23:35:21 ] INFO HM_CLASSIFICATION::carrega labels treino 
+[ 2018-09-02 23:35:29 ] INFO HM_CLASSIFICATION::carrega imagens validacao 
+[ 2018-09-02 23:35:31 ] INFO HM_CLASSIFICATION::carrega labels treino 
+[ 2018-09-02 23:35:36 ] INFO HM_CLASSIFICATION::carrega imagens teste 
+[ 2018-09-02 23:35:36 ] INFO HM_CLASSIFICATION::carrega labels teste 
+[ 2018-09-02 23:48:33 ] INFO HM_CLASSIFICATION::carrega indice das imagens 
+[ 2018-09-02 23:48:39 ] INFO HM_CLASSIFICATION::carrega imagens treino 
+[ 2018-09-02 23:48:45 ] INFO HM_CLASSIFICATION::carrega labels treino 
+[ 2018-09-02 23:49:00 ] INFO HM_CLASSIFICATION::carrega imagens validacao 
+[ 2018-09-02 23:49:02 ] INFO HM_CLASSIFICATION::carrega labels treino 
+[ 2018-09-02 23:49:08 ] INFO HM_CLASSIFICATION::carrega imagens teste 
+[ 2018-09-02 23:49:08 ] INFO HM_CLASSIFICATION::carrega labels teste 
+[ 2018-10-31 16:41:36 ] INFO HM_CLASSIFICATION::carrega indice das imagens 
+[ 2018-10-31 16:41:37 ] INFO HM_CLASSIFICATION::carrega imagens treino 
+[ 2018-10-31 16:41:50 ] INFO HM_CLASSIFICATION::carrega labels treino 
+[ 2018-10-31 16:41:54 ] INFO HM_CLASSIFICATION::carrega imagens validacao 
+[ 2018-10-31 16:41:56 ] INFO HM_CLASSIFICATION::carrega labels treino 
+[ 2018-10-31 16:41:57 ] INFO HM_CLASSIFICATION::carrega imagens teste 
+[ 2018-10-31 16:41:57 ] INFO HM_CLASSIFICATION::carrega labels teste 
+[ 2018-10-31 16:41:57 ] INFO HM_CLASSIFICATION::modelo 
+[ 2018-10-31 16:41:57 ] INFO HM_CLASSIFICATION::treina modelo 
+[ 2018-10-31 16:43:03 ] INFO HM_CLASSIFICATION::carrega indice das imagens 
+[ 2018-10-31 16:43:04 ] INFO HM_CLASSIFICATION::carrega imagens treino 
+[ 2018-10-31 16:43:07 ] INFO HM_CLASSIFICATION::carrega labels treino 
+[ 2018-10-31 16:43:07 ] INFO HM_CLASSIFICATION::carrega imagens validacao 
+[ 2018-10-31 16:43:08 ] INFO HM_CLASSIFICATION::carrega labels treino 
+[ 2018-10-31 16:43:08 ] INFO HM_CLASSIFICATION::carrega imagens teste 
+[ 2018-10-31 16:43:08 ] INFO HM_CLASSIFICATION::carrega labels teste 
+[ 2018-10-31 16:43:08 ] INFO HM_CLASSIFICATION::modelo 
+[ 2018-10-31 16:43:09 ] INFO HM_CLASSIFICATION::treina modelo 
+[ 2018-10-31 16:44:17 ] INFO HM_CLASSIFICATION::carrega indice das imagens 
+[ 2018-10-31 16:44:17 ] INFO HM_CLASSIFICATION::carrega imagens treino 
+[ 2018-10-31 16:44:21 ] INFO HM_CLASSIFICATION::carrega labels treino 
+[ 2018-10-31 16:44:21 ] INFO HM_CLASSIFICATION::carrega imagens validacao 
+[ 2018-10-31 16:44:22 ] INFO HM_CLASSIFICATION::carrega labels treino 
+[ 2018-10-31 16:44:22 ] INFO HM_CLASSIFICATION::carrega imagens teste 
+[ 2018-10-31 16:44:22 ] INFO HM_CLASSIFICATION::carrega labels teste 
+[ 2018-10-31 16:44:22 ] INFO HM_CLASSIFICATION::modelo 
+[ 2018-10-31 16:44:22 ] INFO HM_CLASSIFICATION::treina modelo 
+[ 2018-10-31 17:13:22 ] INFO HM_CLASSIFICATION::carrega indice das imagens 
+[ 2018-10-31 17:13:22 ] INFO HM_CLASSIFICATION::carrega imagens treino 
+[ 2018-10-31 17:13:31 ] INFO HM_CLASSIFICATION::carrega labels treino 
+[ 2018-10-31 17:13:35 ] INFO HM_CLASSIFICATION::carrega imagens validacao 
+[ 2018-10-31 17:13:37 ] INFO HM_CLASSIFICATION::carrega labels treino 
+[ 2018-10-31 17:13:37 ] INFO HM_CLASSIFICATION::carrega imagens teste 
+[ 2018-10-31 17:13:37 ] INFO HM_CLASSIFICATION::carrega labels teste 
+[ 2018-10-31 17:13:37 ] INFO HM_CLASSIFICATION::modelo 
+[ 2018-10-31 17:13:38 ] INFO HM_CLASSIFICATION::treina modelo 

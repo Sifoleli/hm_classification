@@ -1,0 +1,349 @@
+Num ;Name;Surname;Gender;Party 
+321 ;  Manuel  ; Marín González ; H ; GS  
+251 ;  Carme  ; Chacón Piqueras ; M ; GS  
+132 ;  Jordi  ; Vilajoana Rovira ; H ; GC-CiU  
+181 ;  Gabriel  ; Cisneros Laborda ; H ; GP  
+154 ;  Ignacio  ; Gil Lázaro ; H ; GP  
+59 ;  María Jesús  ; Sainz García ; M ; GP  
+320 ;  Celia  ; Villalobos Talero ; M ; GP  
+265 ;  Jaime Javier  ; Barrero López ; H ; GS  
+254 ;  Isaura  ; Navarro Casillas ; M ; GIV-IU-ICV  
+99 ;  José Luis  ; Rodríguez Zapatero ; H ; GS  
+109 ;  María Teresa  ; Fernández de la Vega Sanz ; M ; GS  
+292 ;  Miguel Ángel  ; Moratinos Cuyaubé ; H ; GS  
+308 ;  Juan Fernando  ; López Aguilar ; H ; GS  
+137 ;  José Antonio  ; Alonso Suárez ; H ; GS  
+330 ;  Alfredo  ; Pérez Rubalcaba ; H ; GS  
+95 ;  Diego  ; López Garrido ; H ; GS  
+101 ;  Teresa  ; Cunillera i Mestres ; M ; GS  
+2 ;  Francisco Miguel  ; Fernández Marugán ; H ; GS  
+303 ;  María Carmen  ; Sánchez Díaz ; M ; GS  
+328 ;  María Soraya  ; Rodríguez Ramos ; M ; GS  
+120 ;  José Andrés  ; Torres Mora ; H ; GS  
+166 ;  Javier  ; Torres Vela ; H ; GS  
+260 ;  Herick Manuel  ; Campos Arteseros ; H ; GS  
+143 ;  Ramón  ; Jáuregui Atondo ; H ; GS  
+62 ;  José  ; Blanco López ; H ; GS  
+214 ;  Alfonso  ; Perales Pizarro ; H ; GS  
+152 ;  Álvaro  ; Cuesta Martínez ; H ; GS  
+60 ;  Óscar  ; López Águeda ; H ; GS  
+294 ;  Pedro  ; Saura García ; H ; GS  
+82 ;  Salvador de la  ; Encina Ortega ; H ; GS  
+142 ;  María Isabel  ; Pozuelo Meńo ; M ; GS  
+111 ;  Ángel  ; Martínez Sanjuán ; H ; GS  
+37 ;  Julio  ; Villarrubia Mediavilla ; H ; GS  
+149 ;  Montserrat  ; Palma i Muńoz ; M ; GS  
+235 ;  Ricardo  ; Torres Balaguer ; H ; GS  
+322 ;  Eduardo  ; Madina Muńoz ; H ; GS  
+97 ;  Alfonso  ; Guerra González ; H ; GS  
+264 ;  Antonio  ; Cuevas Delgado ; H ; GS  
+176 ;  Jesús  ; Membrado Giner ; H ; GS  
+129 ;  María Soledad  ; Pérez Domínguez ; M ; GS  
+352 ;  Antonio  ; Hernando Vera ; H ; GS  
+244 ;  Alejandro  ; Alonso Núńez ; H ; GS  
+307 ;  Arantza  ; Mendizábal Gorostiaga ; M ; GS  
+123 ;  Manuel  ; Mas i Estela ; H ; GS  
+277 ;  Elisenda  ; Malaret García ; M ; GS  
+335 ;  MȘ Montserrat  ; Colldeforns i Sol ; M ; GS  
+182 ;  Raimundo  ; Benzal Román ; H ; GS  
+30 ;  Francisco  ; Contreras Pérez ; H ; GS  
+344 ;  Jesús  ; Cuadrado Bausela ; H ; GS  
+224 ;  Antonio  ; Louro Goyanes ; H ; GS  
+148 ;  Carolina  ; Castillejo Hernández ; M ; GS  
+50 ;  Gaspar  ; Llamazares Trigo ; H ; GIV-IU-ICV  
+102 ;  Joan  ; Herrera Torres ; H ; GIV-IU-ICV  
+239 ;  MȘ Carme  ; García Suárez ; M ; GIV-IU-ICV  
+192 ;  Ángel  ; Pérez Martínez ; H ; GIV-IU-ICV  
+259 ;  María Virtudes  ; Monteserín Rodríguez ; M ; GS  
+246 ;  Victorino  ; Mayoral Cortés ; H ; GS  
+119 ;  Miguel Ángel  ; Heredia Díaz ; H ; GS  
+140 ;  Francesc  ; Vallès Vives ; H ; GS  
+197 ;  Juan Luis  ; Rascón Ortega ; H ; GS  
+84 ;  Rosa Delia  ; Blanco Terán ; M ; GS  
+203 ;  Carmen  ; Alborch Bataller ; M ; GS  
+223 ;  Cipriá  ; Císcar Casabán ; H ; GS  
+15 ;  Francesc  ; Antich Oliver ; H ; GS  
+185 ;  Jordi  ; Pedret i Grenzner ; H ; GS  
+184 ;  Isabel  ; López i Chamosa ; M ; GS  
+213 ;  MȘ Luisa  ; Carcedo Roces ; M ; GS  
+263 ;  MȘ del Carmen  ; Ortiz Rivas ; M ; GS  
+357 ;  Carmelo  ; López Villena ; H ; GS  
+305 ;  MȘ Isabel  ; Fuentes González ; M ; GS  
+306 ;  Encarnación  ; Nińo Rico ; M ; GS  
+110 ;  Rafael  ; Román Guerrero ; H ; GS  
+196 ;  Rosa Lucía  ; Polonio Contreras ; M ; GS  
+22 ;  María  ; Escudero Sánchez ; M ; GS  
+23 ;  María Josefa  ; Sánchez Rubio ; M ; GS  
+174 ;  MȘ Rosario Fátima  ; Aburto Baselga ; M ; GS  
+266 ;  José  ; Oria Galloso ; H ; GS  
+351 ;  Antonia  ; Martínez Higueras ; M ; GS  
+199 ;  María Dolores  ; Pérez Anguita ; M ; GS  
+241 ;  Sebastián  ; Quirós Pulgar ; H ; GS  
+115 ;  Ana María  ; Fuentes Pacheco ; M ; GS  
+116 ;  Remedios  ; Martel Gómez ; M ; GS  
+118 ;  Luis Juan  ; Tomás García ; H ; GS  
+245 ;  Manuela  ; Holgado Flores ; M ; GS  
+130 ;  José Luis  ; Galache Cortés ; H ; GS  
+191 ;  MȘ Luisa  ; Lizarraga Gisbert ; M ; GS  
+141 ;  Ernest  ; Benito Serra ; H ; GS  
+325 ;  Esperança  ; Farrera Granja ; M ; GS  
+150 ;  Àlex  ; Sáez Jubero ; H ; GS  
+188 ;  MȘ Dolores  ; Puig Gasol ; M ; GS  
+333 ;  Lourdes  ; Muńoz Santamaría ; M ; GS  
+186 ;  Esperança  ; Esteve Ortega ; M ; GS  
+187 ;  Juan Carlos  ; Corcuera Plaza ; H ; GS  
+256 ;  Meritxell  ; Batet Lamańa ; M ; GS  
+343 ;  Mario  ; Bedera Bravo ; H ; GS  
+289 ;  Eloísa  ; Álvarez Oteo ; M ; GS  
+183 ;  Carmen  ; Juanes Barciela ; M ; GS  
+248 ;  Rosario  ; Velasco García ; M ; GS  
+359 ;  Agustín  ; Turiel Sandín ; H ; GS  
+91 ;  Francisco Xavier  ; Carro Garrote ; H ; GS  
+90 ;  María Esther  ; Couto Rivas ; M ; GS  
+92 ;  MȘ Isabel  ; Salazar Bello ; M ; GS  
+211 ;  Alberto  ; Fidalgo Francisco ; H ; GS  
+238 ;  María José  ; Porteiro García ; M ; GS  
+67 ;  Domingo Miguel  ; Tabuyo Romero ; H ; GS  
+112 ;  MȘ Remedios  ; Elías Cordón ; M ; GS  
+80 ;  José  ; Acosta Cubero ; H ; GS  
+242 ;  Elviro  ; Aranda Álvarez ; H ; GS  
+57 ;  Juan Antonio  ; Barrio de Penagos ; H ; GS  
+274 ;  Lucila  ; Corral Ruiz ; M ; GS  
+127 ;  Juan Julián  ; Elola Ramón ; H ; GS  
+96 ;  Dolores  ; García-Hierro Caraballo ; M ; GS  
+358 ;  Luis  ; Fernández Santos ; H ; GS  
+356 ;  Juan  ; Moscoso del Prado Hernández ; H ; GS  
+144 ;  Pilar  ; Unzalu Pérez de Eulate ; M ; GS  
+293 ;  Elvira  ; Cortajarena Iturrioz ; M ; GS  
+204 ;  Manuel  ; Huertas Vicente ; H ; GS  
+309 ;  José María  ; Benegas Haddad ; H ; GS  
+117 ;  Magdalena  ; Álvarez Arza ; M ; GS  
+159 ;  Jesús  ; Caldera Sánchez-Capitán ; H ; GS  
+257 ;  José  ; Montilla Aguilera ; H ; GS  
+345 ;  José  ; Pliego Cubero ; H ; GS  
+232 ;  Joaquín  ; Leguina Herrán ; H ; GS  
+128 ;  Carmen  ; Hermosín Bono ; M ; GS  
+83 ;  Antonio  ; Gutiérrez Vegara ; H ; GS  
+135 ;  Josep  ; Sánchez i Llibre ; H ; GC-CiU  
+136 ;  Jordi  ; Jané i Guasch ; H ; GC-CiU  
+131 ;  Josep Antoni  ; Duran i Lleida ; H ; GC-CiU  
+295 ;  Joan  ; Puigcercós i Boixassa ; H ; GER-ERC  
+302 ;  Joan  ; Tardà i Coma ; H ; GER-ERC  
+25 ;  Rafael  ; Estrella Pedrola ; H ; GS  
+146 ;  Mercedes  ; Cabrera Calvo-Sotelo ; M ; GS  
+125 ;  Josep María  ; Guinart Solá ; H ; GC-CiU  
+134 ;  Carles  ; Campuzano i Canadés ; H ; GC-CiU  
+156 ;  Josep  ; Maldonado i Gili ; H ; GC-CiU  
+314 ;  Pere  ; Grau i Buldú ; H ; GC-CiU  
+124 ;  Jordi  ; Xuclà i Costa ; H ; GC-CiU  
+133 ;  MȘ Mercè  ; Pigem Palmés ; M ; GC-CiU  
+301 ;  Francesc  ; Canet Coma ; H ; GER-ERC  
+298 ;  Rosa María  ; Bonàs Pahisa ; M ; GER-ERC  
+300 ;  Jordi  ; Ramón Torres ; H ; GER-ERC  
+20 ;  Carmen  ; Marón Beltrán ; M ; GS  
+216 ;  Clementina  ; Díez de Baldeón García ; M ; GS  
+284 ;  Aitor  ; Esteban Bravo ; H ; GV   
+282 ;  Margarita  ; Uría Etxebarría ; M ; GV   
+280 ;  Ińaki  ; Txueka Isasti ; H ; GV   
+281 ;  Pedro María  ; Azpiazu Uriarte ; H ; GV   
+285 ;  Emilio  ; Olabarría Muńoz ; H ; GV   
+283 ;  José Ramón  ; Beloki Guerra ; H ; GV   
+279 ;  Josu Ińaki  ; Erkoreka Gervasio ; H ; GV   
+296 ;  Josep  ; Andreu Domingo ; H ; GER-ERC  
+299 ;  Agustí  ; Cerdà Argent ; H ; GER-ERC  
+297 ;  Joan  ; Puig Cordón ; H ; GER-ERC  
+49 ;  Francisco  ; Rodríguez Sánchez ; H ; GMx  
+79 ;  MȘ Olaia  ; Fernández Davila ; M ; GMx  
+276 ;  José Antonio  ; Labordeta Subías ; H ; GMx  
+98 ;  Begońa  ; Lasagabaster Olazábal ; M ; GMx  
+268 ;  Uxue  ; Barkos Berruezo ; M ; GMx  
+313 ;  Jordi  ; Marsal Muntalà ; H ; GS  
+267 ;  Daniel  ; Fernández González ; H ; GS  
+243 ;  Raquel de la  ; Cruz Valentín ; M ; GS  
+240 ;  Román  ; Rodríguez Rodríguez ; H ; GCC  
+291 ;  Luis  ; Mardones Sevilla ; H ; GCC  
+316 ;  Paulino  ; Rivero Baute ; H ; GCC  
+87 ;  MȘ Gloria  ; Gómez Santamaría ; M ; GS  
+222 ;  Emilio  ; Amuedo Moral ; H ; GS  
+304 ;  Susana  ; Díaz Pacheco ; M ; GS  
+161 ;  Francisco de Asís  ; Garrido Peńa ; H ; GS  
+122 ;  Luis Ángel  ; Hierro Recio ; H ; GS  
+355 ;  José María  ; Becana Sanahuja ; H ; GS  
+179 ;  MȘ Teresa  ; Villagrasa Pérez ; M ; GS  
+178 ;  Yolanda  ; Casaus Rodríguez ; M ; GS  
+72 ;  Gerardo  ; Torres Sahuquillo ; H ; GS  
+180 ;  Alfredo Francisco Javier  ; Arola Blanquet ; H ; GS  
+331 ;  Joaquín  ; Calomarde Gramage ; H ; GP  
+52 ;  Héctor  ; Esteve Ferrer ; H ; GP  
+311 ;  Alejandro Francisco  ; Ballestero de Diego ; H ; GP  
+64 ;  Francisco  ; Ricomá de Castellarnau ; H ; GP  
+273 ;  Tomás  ; Burgos Gallego ; H ; GP  
+11 ;  Juan Carlos  ; Guerra Zunzunegui ; H ; GP  
+138 ;  Julián  ; Simón de la Torre ; H ; GS  
+139 ;  MȘ del Mar  ; Arnaiz García ; M ; GS  
+202 ;  Pedro José  ; Muńoz González ; H ; GS  
+361 ;  María Soledad  ; Herrero Sainz-Rozas ; M ; GS  
+360 ;  María Angustias  ; Alcázar Escribano ; M ; GS  
+194 ;  Sebastián  ; Fuentes Guzmán ; H ; GS  
+74 ;  Siro  ; Torres García ; H ; GS  
+73 ;  María Pilar  ; López Rodríguez ; M ; GS  
+121 ;  Celestino  ; Suárez González ; H ; GS  
+177 ;  Eva  ; Sáenz Royo ; M ; GS  
+337 ;  Carlos Javier  ; Cabrera Matos ; H ; GP  
+341 ;  Elvira  ; Velasco Morillo ; M ; GP  
+42 ;  Enrique  ; Fajarnés Ribas ; H ; GP  
+28 ;  María Mercedes  ; Roldós Caballero ; M ; GP  
+27 ;  Pilar  ; González Segura ; M ; GP  
+51 ;  Jesús Andrés  ; Mancha Cadenas ; H ; GP  
+76 ;  Carlos  ; González Serna ; H ; GS  
+77 ;  Agustín  ; Jiménez Pérez ; H ; GS  
+354 ;  Clemencia  ; Torrado Rey ; M ; GS  
+329 ;  Juana  ; Serna Masiá ; M ; GS  
+228 ;  Antonia  ; García Valls ; M ; GS  
+113 ;  MȘ Antonia de  ; Armengol Criado ; M ; GS  
+287 ;  Carmen  ; Montón Giménez ; M ; GS  
+114 ;  Margarita  ; Pin Arboledas ; M ; GS  
+206 ;  Josep Antoni  ; Santamaría i Mateo ; H ; GS  
+33 ;  José Ramón  ; Mateos Martín ; H ; GS  
+14 ;  María Gràcia  ; Muńoz Salvà ; M ; GS  
+13 ;  Isabel María  ; Oliver Sagreras ; M ; GS  
+270 ;  José Avelino  ; Sánchez Menéndez ; H ; GP  
+69 ;  Elías  ; Arribas Aragonés ; H ; GP  
+269 ;  Leopoldo  ; Bertrand de la Riera ; H ; GP  
+163 ;  Alberto  ; Garre López ; H ; GP  
+17 ;  María Encarnación  ; Naharro de Mora ; M ; GP  
+336 ;  Concepción  ; González Gutiérrez ; M ; GP  
+255 ;  Carlos Casimiro  ; Salvador Armendáriz ; H ; GP  
+312 ;  Francisco  ; Vańó Ferre ; H ; GP  
+271 ;  Jorge  ; Sevilla Segura ; H ; GS  
+195 ;  Carmen  ; Calvo Poyato ; M ; GS  
+349 ;  Cristina  ; Narbona Ruiz ; M ; GS  
+108 ;  Rafael Antonio  ; Hernando Fraile ; H ; GP  
+250 ;  Jaime Ignacio del  ; Burgo Tajadura ; H ; GP  
+6 ;  María  ; Salom Coll ; M ; GP  
+237 ;  Ana  ; Torme Pardo ; M ; GP  
+315 ;  Vicente  ; Martínez-Pujalte López ; H ; GP  
+201 ;  Miguel Ángel  ; Cortés Martín ; H ; GP  
+103 ;  Jorge  ; Fernández Díaz ; H ; GP  
+231 ;  Eduardo  ; Zaplana Hernández-Soro ; H ; GP  
+230 ;  Ángel Jesús  ; Acebes Paniagua ; H ; GP  
+200 ;  Mariano  ; Rajoy Brey ; H ; GP  
+169 ;  Francisco Javier  ; Arenas Bocanegra ; H ; GP  
+168 ;  José Antonio  ; Bermúdez de Castro Fernández ; H ; GP  
+85 ;  Juan Carlos  ; Vera Pro ; H ; GP  
+66 ;  Federico  ; Trillo-Figueroa Martínez-Conde ; H ; GP  
+104 ;  Teófilo de  ; Luis Rodríguez ; H ; GP  
+107 ;  Gabriel  ; Elorriaga Pisarik ; H ; GP  
+342 ;  Ignacio  ; Astarloa Huarte-Mendicoa ; H ; GP  
+153 ;  Miguel  ; Arias Cańete ; H ; GP  
+217 ;  Ana María  ; Pastor Julián ; M ; GP  
+362 ;  María Soraya  ; Sáenz de Santamaría Antón ; M ; GP  
+363 ;  Sebastián  ; González Vázquez ; H ; GP  
+105 ;  Alicia  ; Castro Masaveu ; M ; GP  
+338 ;  Ana  ; Palacio Vallelersundi ; M ; GP  
+63 ;  Jesús María  ; Posada Moreno ; H ; GP  
+324 ;  Gustavo Manuel de  ; Arístegui y San Román ; H ; GP  
+86 ;  Francisco José  ; Villar García-Moreno ; H ; GP  
+234 ;  María Dolors  ; Nadal i Aymerich ; M ; GP  
+348 ;  Lourdes  ; Méndez Monasterio ; M ; GP  
+1 ;  Gonzalo  ; Robles Orozco ; H ; GP  
+369 ;  Julio César  ; Sánchez Fierro ; H ; GP  
+262 ;  María Sandra  ; Moneo Díez ; M ; GP  
+172 ;  José María  ; Lassalle Ruiz ; H ; GP  
+205 ;  Baudilio  ; Tomé Muguruza ; H ; GP  
+327 ;  Jorge  ; Moragas Sánchez ; H ; GP  
+332 ;  Carlos  ; Aragonés Mendiguchía ; H ; GP  
+290 ;  José María  ; Michavila Núńez ; H ; GP  
+210 ;  MȘ Elvira  ; Rodríguez Herrer ; M ; GP  
+54 ;  Rogelio  ; Baón Ramírez ; H ; GP  
+209 ;  Juan  ; Morano Masa ; H ; GP  
+252 ;  Manuel  ; Atencia Robledo ; H ; GP  
+158 ;  Gabino  ; Puche Rodríguez-Acosta ; H ; GP  
+155 ;  José Ignacio  ; Echániz Salgado ; H ; GP  
+350 ;  Macarena  ; Montesinos de Miguel ; M ; GP  
+261 ;  Fernando Vicente  ; Castelló Boronat ; H ; GP  
+215 ;  María Teresa de  ; Lara Carbó ; M ; GP  
+94 ;  Julio  ; Padilla Carballada ; H ; GP  
+227 ;  Mario  ; Mingo Zapatero ; H ; GP  
+221 ;  José Eugenio  ; Azpiroz Villar ; H ; GP  
+220 ;  Andrés José  ; Ayala Sánchez ; H ; GP  
+38 ;  José  ; Madero Jarabo ; H ; GP  
+24 ;  MȘ Fátima  ; Báńez García ; M ; GP  
+58 ;  Eugenio  ; Nasarre Goicoechea ; H ; GP  
+147 ;  Fernando  ; López-Amor García ; H ; GP  
+310 ;  Alicia  ; Sánchez-Camacho Pérez ; M ; GP  
+286 ;  José  ; Folgado Blanco ; H ; GP  
+53 ;  Luis  ; Gámir Casares ; H ; GP  
+165 ;  Julia  ; García-Valdecasas Salgado ; M ; GP  
+207 ;  MȘ Angels  ; Ramón-Llin i Martínez ; M ; GP  
+323 ;  Miguel  ; Barrachina Ros ; H ; GP  
+229 ;  Pablo  ; Matos Mascareńo ; H ; GP  
+39 ;  Joaquín María  ; García Díez ; H ; GP  
+21 ;  Celso Luis  ; Delgado Arce ; H ; GP  
+346 ;  Ángeles  ; Muńoz Uriol ; M ; GP  
+88 ;  Beatriz  ; Rodríguez-Salmones Cabeza ; M ; GP  
+44 ;  Blanca  ; Fernández-Capel Bańos ; M ; GP  
+189 ;  Francisco  ; Utrera Mora ; H ; GP  
+18 ;  Ana Belén  ; Vázquez Blanco ; M ; GP  
+219 ;  Susana  ; Camarero Benítez ; M ; GP  
+334 ;  Roberto  ; Soravilla Fernández ; H ; GP  
+278 ;  Federico  ; Souvirón García ; H ; GP  
+40 ;  Luis  ; Marquínez Marquínez ; H ; GP  
+367 ;  María Ángeles  ; Font Bonmatí ; M ; GP  
+347 ;  Isidro  ; Fernández Rozada ; H ; GP  
+70 ;  Íńigo  ; Herrera Martínez de Campos ; H ; GP  
+35 ;  Adolfo Luis  ; González Rodríguez ; H ; GP  
+34 ;  Juan Manuel  ; Albendea Pabón ; H ; GP  
+16 ;  Javier  ; Gómez Darmendrail ; H ; GP  
+75 ;  Jesús  ; López-Medel Báscones ; H ; GP  
+208 ;  José Luis  ; Bermejo Fernández ; H ; GP  
+339 ;  Javier  ; Fernández-Lasquetty y Blanc ; H ; GP  
+106 ;  Juan José  ; Matarí Sáez ; H ; GP  
+4 ;  Jesús  ; Merino Delgado ; H ; GP  
+100 ;  Antonio  ; Gutiérrez Molina ; H ; GP  
+3 ;  Arsenio  ; Fernández de Mesa Díaz del Río ; H ; GP  
+9 ;  José Joaquín  ; Martínez Sieso ; H ; GP  
+78 ;  Santiago  ; Lanzuela Marina ; H ; GP  
+173 ;  José Domingo Cipriano  ; Oreiro Rodríguez ; H ; GP  
+171 ;  Carlos  ; Mantilla Rodríguez ; H ; GP  
+162 ;  Adolfo  ; Fernández Aguilar ; H ; GP  
+31 ;  Francisco Vicente  ; Murcia Barceló ; H ; GP  
+145 ;  María Asunción  ; Oltra Torres ; M ; GP  
+43 ;  Germán Augusto  ; López Iglesias ; H ; GP  
+7 ;  Miguel Ángel  ; Martín Soledad ; H ; GP  
+32 ;  María Enriqueta  ; Seller Roca de Togores ; M ; GP  
+65 ;  Miguel Antonio  ; Campoy Suárez ; H ; GP  
+288 ;  Marisa  ; Arrúe Bergareche ; M ; GP  
+47 ;  María Jesús Celinda  ; Sánchez García ; M ; GP  
+198 ;  Pío  ; Pérez Laserna ; H ; GP  
+41 ;  Carmen  ; Matador de Matos ; M ; GP  
+8 ;  Juan  ; Salord Torrent ; H ; GP  
+160 ;  César Antonio  ; Rico Ruiz ; H ; GP  
+193 ;  Amador  ; Álvarez Álvarez ; H ; GP  
+218 ;  MȘ Dolores  ; Pan Vázquez ; M ; GP  
+5 ;  Francisco Antonio  ; González Pérez ; H ; GP  
+212 ;  María del Carmen  ; Quintanilla Barba ; M ; GP  
+225 ;  María Rosario  ; Juaneda Zaragoza ; M ; GS  
+89 ;  Manuel Ceferino  ; Díaz Díaz ; H ; GS  
+275 ;  MȘ Mercedes  ; Coello Fernández-Trujillo ; M ; GS  
+318 ;  Gloria Elena  ; Rivero Alcover ; M ; GS  
+353 ;  Erasmo Juan Manuel  ; Armas Dárias ; H ; GS  
+319 ;  Olivia  ; Cedrés Rodríguez ; M ; GS  
+317 ;  Pilar  ; Grande Pesquero ; M ; GS  
+45 ;  Ángel  ; Pintado Barbanoj ; H ; GP  
+175 ;  MȘ Amelia  ; Caracuel del Olmo ; M ; GP  
+46 ;  María Pía  ; Sánchez Fernández ; M ; GP  
+340 ;  Rafael  ; Merino López ; H ; GP  
+12 ;  Aurelio  ; Sánchez Ramos ; H ; GP  
+10 ;  Ana María  ; Madrazo Díaz ; M ; GP  
+55 ;  Antonio  ; Erias Rey ; H ; GP  
+247 ;  José Félix  ; Vadillo Arnaez ; H ; GP  
+68 ;  Juan  ; Santaella Porras ; H ; GP  
+157 ;  Ramón  ; Moreno Bustos ; H ; GP  
+29 ;  Cándido  ; Reguera Díaz ; H ; GP  
+19 ;  Armando  ; González López ; H ; GP  
+365 ;  Luis de  ; Torres Gómez ; H ; GP  
+364 ;  José Luis del  ; Ojo Torres ; H ; GP  
+366 ;  María Eugenia  ; Martín Mendizábal ; M ; GP  
+368 ;  Verónica  ; Lope Fontagne ; M ; GP  
+370 ;  José Ramón  ; Calpe Saera ; H ; GP  

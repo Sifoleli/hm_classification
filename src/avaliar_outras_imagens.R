@@ -1,5 +1,5 @@
 # Ver a imagem
-imagem <- image_load(path = "data/outros_exemplos/edinanci.jpg",
+imagem <- image_load(path = "data/outros_exemplos/scarllet.jpg",
                      grayscale = FALSE,
                      target_size = c(86, 85) )
 

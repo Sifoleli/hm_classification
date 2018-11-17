@@ -24,11 +24,11 @@ imagem <- image_load(path = "data/images_test/368c.jpg",
 
 imagem <- image_to_array( imagem )
 
-imagem <- imagem[,,1]
-
 imagem %>% 
   as.raster( max = max(imagem) ) %>% 
   plot()
+
+imagem <- imagem[,,1]
 
 dados_index %>% 
   filter( Num == 368 )

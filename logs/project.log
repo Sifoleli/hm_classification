@@ -110,3 +110,29 @@
 [ 2018-10-31 17:13:37 ] INFO HM_CLASSIFICATION::carrega labels teste 
 [ 2018-10-31 17:13:37 ] INFO HM_CLASSIFICATION::modelo 
 [ 2018-10-31 17:13:38 ] INFO HM_CLASSIFICATION::treina modelo 
+[ 2018-10-31 18:13:37 ] INFO HM_CLASSIFICATION::carrega indice das imagens 
+[ 2018-10-31 18:13:37 ] INFO HM_CLASSIFICATION::carrega imagens treino 
+[ 2018-10-31 18:13:45 ] INFO HM_CLASSIFICATION::carrega labels treino 
+[ 2018-10-31 18:13:48 ] INFO HM_CLASSIFICATION::carrega imagens validacao 
+[ 2018-10-31 18:13:50 ] INFO HM_CLASSIFICATION::carrega labels treino 
+[ 2018-10-31 18:13:50 ] INFO HM_CLASSIFICATION::carrega imagens teste 
+[ 2018-10-31 18:13:50 ] INFO HM_CLASSIFICATION::carrega labels teste 
+[ 2018-10-31 18:13:50 ] INFO HM_CLASSIFICATION::modelo 
+[ 2018-10-31 18:13:50 ] INFO HM_CLASSIFICATION::treina modelo 
+[ 2018-11-08 15:11:31 ] INFO HM_CLASSIFICATION::carrega indice das imagens 
+[ 2018-11-08 15:11:31 ] INFO HM_CLASSIFICATION::carrega imagens treino 
+[ 2018-11-08 15:11:52 ] INFO HM_CLASSIFICATION::carrega labels treino 
+[ 2018-11-08 15:11:56 ] INFO HM_CLASSIFICATION::carrega imagens validacao 
+[ 2018-11-08 15:11:58 ] INFO HM_CLASSIFICATION::carrega labels treino 
+[ 2018-11-08 15:11:58 ] INFO HM_CLASSIFICATION::carrega imagens teste 
+[ 2018-11-08 15:11:58 ] INFO HM_CLASSIFICATION::carrega labels teste 
+[ 2018-11-08 15:11:58 ] INFO HM_CLASSIFICATION::modelo 
+[ 2018-11-08 15:11:58 ] INFO HM_CLASSIFICATION::treina modelo 
+[ 2018-11-17 14:58:44 ] INFO HM_CLASSIFICATION::carrega indice das imagens 
+[ 2018-11-17 14:58:53 ] INFO HM_CLASSIFICATION::carrega imagens treino 
+[ 2018-11-17 14:59:05 ] INFO HM_CLASSIFICATION::carrega labels treino 
+[ 2018-11-17 14:59:23 ] INFO HM_CLASSIFICATION::carrega imagens validacao 
+[ 2018-11-17 14:59:25 ] INFO HM_CLASSIFICATION::carrega labels treino 
+[ 2018-11-17 14:59:52 ] INFO HM_CLASSIFICATION::carrega imagens teste 
+[ 2018-11-17 14:59:52 ] INFO HM_CLASSIFICATION::carrega labels teste 
+[ 2018-11-17 15:09:08 ] INFO HM_CLASSIFICATION::treina modelo 

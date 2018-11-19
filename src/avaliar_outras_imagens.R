@@ -1,3 +1,7 @@
+# carrega modelo treinado
+network <- load_model_hdf5("src/hm_classification_model.h5")
+
+
 # Ver a imagem
 imagem <- image_load(path = "data/outros_exemplos/scarllet.jpg",
                      grayscale = FALSE,

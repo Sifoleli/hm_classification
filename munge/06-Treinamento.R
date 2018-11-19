@@ -17,3 +17,7 @@ network %>% fit(gender_images_train,
                 validation_data = list(gender_images_valid,
                                        gender_labels_valid),
                 shuffle = FALSE )
+
+# # salva modelo treinado
+# network %>% 
+#   save_model_hdf5("src/hm_classification_model_2.h5")
